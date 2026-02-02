@@ -1,4 +1,4 @@
-Fitness Tracker: Barbell Exercise Classifier
+## Fitness Tracker: Barbell Exercise Classifier
 This project series provides a comprehensive guide to building an automated fitness tracker using Python. By leveraging accelerometer and gyroscope data, the system classifies specific barbell exercises and counts repetitions, transforming raw sensor data into actionable workout insights.
 
 🎯 Project Objective
