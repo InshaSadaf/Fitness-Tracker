@@ -139,7 +139,6 @@ def mark_outliers_chauvenet(dataset, col, C=2):
         indicating whether the value is an outlier or not.
     """
 
-    dataset = dataset.copy()
     # Compute the mean and standard deviation.
     mean = dataset[col].mean()
     std = dataset[col].std()
